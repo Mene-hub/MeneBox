@@ -1,0 +1,13 @@
+M:\Scuola\Compiti\tep\MeneBox\MeneBox_server\MeneBox_server\bin\Debug\MeneBox_server.exe.config
+M:\Scuola\Compiti\tep\MeneBox\MeneBox_server\MeneBox_server\bin\Debug\MeneBox_server.exe
+M:\Scuola\Compiti\tep\MeneBox\MeneBox_server\MeneBox_server\bin\Debug\MeneBox_server.pdb
+M:\Scuola\Compiti\tep\MeneBox\MeneBox_server\MeneBox_server\obj\Debug\MeneBox_server.csprojAssemblyReference.cache
+M:\Scuola\Compiti\tep\MeneBox\MeneBox_server\MeneBox_server\obj\Debug\MeneBox_server.exe
+M:\Scuola\Compiti\tep\MeneBox\MeneBox_server\MeneBox_server\obj\Debug\MeneBox_server.pdb
+M:\Scuola\Superiori\Compiti\tep\MeneBox\MeneBox_server\MeneBox_server\bin\Debug\MeneBox_server.exe.config
+M:\Scuola\Superiori\Compiti\tep\MeneBox\MeneBox_server\MeneBox_server\bin\Debug\MeneBox_server.exe
+M:\Scuola\Superiori\Compiti\tep\MeneBox\MeneBox_server\MeneBox_server\bin\Debug\MeneBox_server.pdb
+M:\Scuola\Superiori\Compiti\tep\MeneBox\MeneBox_server\MeneBox_server\obj\Debug\MeneBox_server.csprojAssemblyReference.cache
+M:\Scuola\Superiori\Compiti\tep\MeneBox\MeneBox_server\MeneBox_server\obj\Debug\MeneBox_server.csproj.CoreCompileInputs.cache
+M:\Scuola\Superiori\Compiti\tep\MeneBox\MeneBox_server\MeneBox_server\obj\Debug\MeneBox_server.exe
+M:\Scuola\Superiori\Compiti\tep\MeneBox\MeneBox_server\MeneBox_server\obj\Debug\MeneBox_server.pdb

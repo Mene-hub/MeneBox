@@ -1,0 +1,21 @@
+﻿<Window x:Class="MeneBox.New_txt"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MeneBox"
+        mc:Ignorable="d"
+        Title="New_txt" Height="450" Width="800" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel Orientation="Horizontal" VerticalAlignment="Top" Margin="10,12,0,10" HorizontalAlignment="Left" >
+            <Image Source="Img/Icon.png" Height="30" VerticalAlignment="Top" HorizontalAlignment="Center"></Image>
+            <Label HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="15" FontWeight="Bold">MeneBox</Label>
+            <Label>Nome File </Label>
+            <TextBox x:Name="TB_Name" Width="150" Height="25" ></TextBox>
+            <Button Name="BT_Salva" Background="#FFFF6D00" BorderBrush="#FFFF6D00" Foreground="#DDFFFFFF" Width="100" Click="BT_Salva_Click" Height="25" Margin="20,0,0,0">Salva</Button>
+            <Button Name="BT_Annulla" Background="#FFFF6D00" BorderBrush="#FFFF6D00" Foreground="#DDFFFFFF" Width="100" Click="BT_Salva_Click" Height="25" Margin="10,0,0,0">Annulla</Button>
+        </StackPanel>
+        <Label Margin="0,45,0,0" Height="30" VerticalAlignment="Top" Padding="19,4,4,4" BorderThickness="0,2,0,0" BorderBrush="#FFFF7F27" Foreground="#FFFF7F27">Inserisci il testo del tuo file qui</Label>
+        <TextBox x:Name="TB_FileContent" Height="347" VerticalAlignment="Bottom" Margin="10,20,10,0" SelectionBrush="#FFFF7F27" CaretBrush="#FFFF7F27" BorderThickness="2" BorderBrush="#FFFFCCA8"></TextBox>
+    </Grid>
+</Window>
